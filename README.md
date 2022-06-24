@@ -4,11 +4,11 @@ Teste de Unidade tem como objetivo garantir que uma unidade ou classe funciona, 
 
 ## Por que escrever testes unitários ?
 
-### Pirâmide de testes : A base da pirâmide são os testes unitários
-### Teste unitários como métrica de Qualidade(confiabilidade)
-### Cobertura de testes : Medida de qualidade de software
-### Automação na execução de testes
-### Cultura de agilidade.
+- Pirâmide de testes : A base da pirâmide são os testes unitários
+- Teste unitários como métrica de Qualidade(confiabilidade)
+- Cobertura de testes : Medida de qualidade de software
+- Automação na execução de testes
+- Cultura de agilidade.
 
 
 
